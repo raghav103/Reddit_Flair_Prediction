@@ -16,7 +16,7 @@ After Extraction and cleaning of dataset I applied various Machine Learning and 
 
 To find the best combination of features, I used Bag of Words model. First text was converted to Tf-idf vectors and then these vectors were fed to the following models :-
 
-1. ###Linear SVC
-2. ###Naive-Bayes
-3. ###Logistic Regression
-4. ###Random Forests
+1. #### Linear SVC
+2. #### Naive-Bayes
+3. #### Logistic Regression
+4. #### Random Forests
